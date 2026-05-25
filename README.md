@@ -14,3 +14,5 @@ Aplicação web desenvolvida com Streamlit para análise exploratória de anúnc
 - Pandas
 - Plotly Express
 - Streamlit
+
+- link do Render: https://projeto-5-88r1.onrender.com/
